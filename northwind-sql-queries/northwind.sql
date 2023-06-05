@@ -18,7 +18,7 @@ CREATE TABLE customers (
     country varchar(255) NOT NULL,
     phone varchar(255) NOT NULL,
     fax varchar(255) NOT NULL,
-    PRIMARY KEY (category_id)
+    PRIMARY KEY (customer_id)
 ); /* creating customers table */
 CREATE TABLE regions (
     region_id int NOT NULL,
