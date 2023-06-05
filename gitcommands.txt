@@ -2,5 +2,5 @@ git init
 git add README.md
 git commit -m "initial commit"
 git remote add origin https://github.com/Yashika-Shetty/northwind-sql-queries.git
-git remote set-url origin https://Yashika-Shetty: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@github.com/Yashika-Shetty/northwind-sql-queries.git
+git remote set-url origin https://Yashika-Shetty:Your_token@github.com/Yashika-Shetty/northwind-sql-queries.git
 git push --set-upstream origin master
